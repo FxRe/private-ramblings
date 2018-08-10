@@ -1,4 +1,4 @@
-###### Änderungen in Server und Client Konfigurationen  
+### Änderungen in Server und Client Konfigurationen  
 
 **server.ovpn** um folgende Zeilen ergänzen  
 

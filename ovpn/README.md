@@ -1,5 +1,7 @@
 ### Änderungen in Server und Client Konfigurationen  
 
+Dateien auth.bat und users.txt in Ordner der Konfiguration oder Pfade entsprechend anpassen.
+
 **server.ovpn** um folgende Zeilen ergänzen  
 
 ```

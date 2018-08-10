@@ -11,4 +11,6 @@ auth-user-pass-verify auth.bat via-env
   
 **client.ovpn** um folgende Zeile ergänzen  
 
-```auth-user-pass```
+```
+auth-user-pass
+```
